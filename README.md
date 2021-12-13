@@ -1,3 +1,3 @@
 # GBSwift
 
-Go to main.swift
+GeekBrains Homework
